@@ -3,7 +3,9 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
 }
-
+h1{
+   color: #004e5f; 
+}
 .sobre-container {
     display: flex;
     justify-content: center;
